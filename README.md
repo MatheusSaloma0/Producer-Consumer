@@ -1,5 +1,7 @@
 # Producer-Consumer
-Trabalho 2 de Sistemas Operacionais
+Segundo Trabalho de Sistemas Operacionais
+
+Professora Roberta Lima Gomes
 
 Pretende-se construir uma aplicação Java em que threads *Producers* enviam mensagens para threads
 *Consumers*. As mensagens são colocadas em 4 filas, cada uma associada a um nível de prioridade
